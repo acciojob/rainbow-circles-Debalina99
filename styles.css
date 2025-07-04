@@ -9,7 +9,7 @@
     align-items: center;
   }
 
-  #middle {
+#middle {
     width: 200px;
     height: 200px;
     background-color: #008000;
@@ -18,13 +18,15 @@
     display: flex;
     justify-content: center;
     align-items: center;
+	margin:25px;
   }
 
-  #inner {
+#inner {
     width: 100px;
     height: 100px;
     background-color: #800080; 
 	border: 25px solid #0000ff;
     border-radius: 50%;
     position: relative;
+	margin:25px;
   }
